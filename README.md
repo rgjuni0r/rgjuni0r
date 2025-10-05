@@ -8,7 +8,7 @@
 Sou um **Full Stack Developer com visão de arquitetura e produto**, apaixonado por tecnologia, design e automação.  
 Acredito que **as primeiras impressões contam**, por isso desenvolvo **interfaces modernas, fluidas e responsivas** — mas sempre sobre uma base sólida, segura e escalável.  
 
-> “Não basta ter um castelo bonito se ele é feito de papelão.”  
+> “Não basta erguer um castelo se os pilares não sustentam o peso da própria beleza.”  
 > Construo sistemas robustos, automatizados e prontos para crescer com qualidade e propósito.
 
 💡 **Áreas de atuação:** Desenvolvimento web, automação, inteligência artificial e arquitetura de sistemas.  
