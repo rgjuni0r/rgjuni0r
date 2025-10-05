@@ -85,8 +85,8 @@ Autor em eventos científicos nacionais e internacionais:
 
 ### 🌎 Onde me encontrar  
 
-📍 Nova Veneza — Goiás, Brasil  
-📧 [rogeriojr.alves@gmail.com](mailto:rogeriojr.alves@gmail.com)  
+📍 Goiânia — Goiás, Brasil  
+📧 [rogerio@abcensina.com.br](mailto:rogerio@abcensina.com.br)  
 💬 WhatsApp: [+55 (62) 99665-1290](https://wa.me/5562996651290)  
 🌐 [abcensina.com.br](https://www.abcensina.com.br)  
 📄 [Currículo Lattes](http://lattes.cnpq.br/9584593678476487)  
