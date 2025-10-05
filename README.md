@@ -9,7 +9,7 @@ Sou um **Full Stack Developer com visão de arquitetura e produto**, apaixonado 
 Acredito que **as primeiras impressões contam**, por isso desenvolvo **interfaces modernas, fluidas e responsivas** — mas sempre sobre uma base sólida, segura e escalável.  
 
 > “**Não basta erguer um castelo se os pilares não sustentam o peso da própria beleza**.”  
-> Por isso, construo sistemas onde estética e estrutura coexistem — soluções bonitas por fora, mas sólidas por dentro. Cada linha de código é pensada para durar, escalar e resistir ao tempo.
+> Por isso, meu foco em construir sistemas onde estética e estrutura coexistem — soluções bonitas por fora, mas sólidas por dentro. Cada linha de código é pensada para durar, escalar e resistir ao tempo.
 
 💡 **Áreas de atuação:** Desenvolvimento web, automação, inteligência artificial e arquitetura de sistemas.  
 💬 **Foco atual:** Django · React · Next.js · PostgreSQL · IA aplicada.
