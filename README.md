@@ -66,7 +66,7 @@ Construção e validação de um protótipo off-road completo, aplicando fundame
 
 | Projeto | Descrição | Link |
 |----------|------------|------|
-| **abc ENEM** | Plataforma educacional com IA e correção automática de redações | [🔗 abcensina.com.br](https://www.abcensina.com.br) |
+| **abc ENEM** | Plataforma educacional com IA e correção automática de redações | [🔗 abcenem.com.br](https://www.abcenem.com.br) |
 | **abc Cardápio** | Sistema de pedidos automatizados e cardápios digitais inteligentes | [🔗 cardapio.me](https://cardapio.me) |
 | **abc WhaSeller** | Criação de assistentes personalizados no WhatsApp com IA | [🔗 whaseller.abcensina.com.br](https://whaseller.abcensina.com.br) |
 | **Tô Com Fome** | Plataforma de delivery regional conectada a estabelecimentos locais | [🔗 tocomfome.app](https://tocomfome.app) |
