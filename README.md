@@ -1,69 +1,92 @@
-# 👋 Olá, eu sou Rogério Moreira Alves Júnior  
-
-🎓 Engenheiro em formação — atualmente graduando em **Engenharia Elétrica** pela Universidade Federal de Goiás (UFG) e com trajetória iniciada em **Engenharia Mecânica** pela UFSM.  
-💡 Desenvolvedor **Full Stack** com foco em **Python/Django**, **JavaScript**, **TypeScript**, **React/Next.js**, **automação** e **inteligência artificial aplicada**.
+<h1 align="center">👋 Olá, eu sou <strong>Rogério Moreira Alves Júnior</strong></h1>
+<h3 align="center">Engenheiro em formação | Desenvolvedor Full Stack Sênior | Fundador & CTO da <a href="https://www.abcensina.com.br" target="_blank">abc Ensina</a></h3>
 
 ---
 
-## 🧠 Sobre mim
+### 💼 Sobre mim  
 
-Sou apaixonado por tecnologia, inovação e educação.  
-Como fundador e CTO da **abc Ensina**, desenvolvi um ecossistema de plataformas que unem **IA, automação e experiência do usuário** para transformar setores como ensino, comércio e atendimento digital.
+Sou um **Full Stack Developer com visão de arquitetura e produto**, apaixonado por tecnologia, design e automação.  
+Acredito que **as primeiras impressões contam**, por isso desenvolvo **interfaces modernas, fluidas e responsivas** — mas sempre sobre uma base sólida, segura e escalável.  
 
-🎯 **Minha missão:** construir soluções inteligentes, escaláveis e humanizadas, que simplificam processos e impactam pessoas.
+> “Não basta ter um castelo bonito se ele é feito de papelão.”  
+> Construo sistemas robustos, automatizados e prontos para crescer com qualidade e propósito.
 
----
-
-## 💼 Experiências recentes
-
-### 🧩 **abc Ensina** — *Fundador, CEO e CTO (2022 - Presente)*  
-Criação de sistemas completos que unem tecnologia e propósito:  
-- **abc Enem** → plataforma de estudos completo com integração de IA e correção automática de redações.  
-- **abc Cardápio** → sistema de pedidos automatizados e cardápios inteligentes.  
-- **Tô Com Fome** → delivery local com foco em estabelecimentos regionais.  
-- **WhaSeller** → criador de assistentes virtuais no WhatsApp sem código.  
-
-> 🔗 Site: [www.abcensina.com.br](https://www.abcensina.com.br)
+💡 **Áreas de atuação:** Desenvolvimento web, automação, inteligência artificial e arquitetura de sistemas.  
+💬 **Foco atual:** Django · React · Next.js · PostgreSQL · IA aplicada.
 
 ---
 
-### 🤖 **Equipe Pequi Mecânico (UFG)** — *Robótica Humanoide (2023)*  
-Atuei no desenvolvimento de robôs autônomos humanoides — conquistamos o 🥇 **1º lugar** e 🥈 **2º lugar** na *Latin American Competition of Robotics (LARC)*.
+### 🚀 Experiências de Impacto  
+
+#### 🧩 **abc Ensina** — *Fundador, CEO e CTO (2022 - Presente)*  
+Ecossistema de plataformas que une IA, automação e UX para transformar educação, comércio e atendimento.  
+- **abc Enem** → plataforma de estudos com IA e correção automática de redações.  
+- **abc Cardápio** → sistema de pedidos automatizados e cardápios digitais inteligentes.  
+- **Tô Com Fome** → delivery regional com foco em estabelecimentos locais.  
+- **WhaSeller** → criador de assistentes virtuais com IA para WhatsApp.  
+> 🔗 [www.abcensina.com.br](https://www.abcensina.com.br)
 
 ---
 
-### 🚙 **Projeto BAJA SAE (UFSM)** — *Engenharia Mecânica (2019 - 2022)*  
-Construção e validação de um **protótipo off-road** em equipe multidisciplinar.
+#### 🤖 **Equipe Pequi Mecânico (UFG)** — *Robótica Humanoide (2023)*  
+🏆 1º e 2º lugares na **Latin American Competition of Robotics (LARC)** com robôs autônomos humanoides.
 
 ---
 
-## 🧰 Habilidades Técnicas
-
-**Linguagens:**  
-`Python` · `JavaScript` · `TypeScript` · `C` · `C++` · `Java` · `PHP`  · `VB` · `VBA` · `Excel Avançado` · `Machine Learning` · `Deep Learning`
-
-**Frameworks e ferramentas:**  
-`Django` · `Django REST Framework` · `React` · `Next.js` · `Angular` · `Arduino`  
-
-**Outras competências:**  
-`Automação` · `Inteligência Artificial (IA)` · `Web Scraping` · `APIs` · `Banco de Dados` (PostgreSQL / MySQL) · `Git` · `Linux`  
+#### 🚙 **Projeto BAJA SAE (UFSM)** — *Engenharia Mecânica (2019 - 2022)*  
+Construção e validação de um protótipo off-road completo, aplicando fundamentos de engenharia e testes reais.
 
 ---
 
-## 🧩 Projetos em destaque
+### 🧠 Tecnologias & Ferramentas  
+
+#### 🧩 Linguagens  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+#### ⚙️ Frameworks e Ferramentas  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🧩 Projetos em Destaque  
 
 | Projeto | Descrição | Link |
 |----------|------------|------|
-| **abc Enem** | Plataforma educacional com IA, correção de redações e painéis interativos | [🔗 abcensina.com.br](https://www.abcensina.com.br) |
+| **abc Enem** | Plataforma educacional com IA e correção automática de redações | [🔗 abcensina.com.br](https://www.abcensina.com.br) |
 | **abc Cardápio** | Sistema de pedidos automatizados e cardápios digitais inteligentes | [🔗 cardapio.me](https://cardapio.me) |
 | **WhaSeller** | Criação de assistentes personalizados no WhatsApp com IA | [🔗 whaseller.abcensina.com.br](https://whaseller.abcensina.com.br) |
 | **Tô Com Fome** | Plataforma de delivery regional conectada a estabelecimentos locais | [🔗 tocomfome.app](https://tocomfome.app) |
 
 ---
 
-## 🧪 Publicações e Produção Científica
+### 📊 Estatísticas do GitHub  
 
-Autor em eventos de destaque como:  
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### 🧪 Publicações e Produção Científica  
+
+Autor em eventos científicos nacionais e internacionais:  
 📘 *International Conference on Production Research Americas (ICPR)*  
 ⚙️ *Seminar on Power Electronics and Control (SEPOC)*  
 🌞 *Congresso Brasileiro de Energia Solar (CBENS)*  
@@ -71,14 +94,7 @@ Autor em eventos de destaque como:
 
 ---
 
-## 🗣️ Idiomas
-
-- **Português:** fluente  
-- **Inglês:** intermediário  
-
----
-
-## 🌎 Onde me encontrar
+### 🌎 Onde me encontrar  
 
 📍 Nova Veneza — Goiás, Brasil  
 📧 [rogeriojr.alves@gmail.com](mailto:rogeriojr.alves@gmail.com)  
@@ -89,17 +105,13 @@ Autor em eventos de destaque como:
 
 ---
 
-## 🧠 Curiosidade técnica
-O site da **IPM Mentoria**, atualmente hospedado em Bubble.io, poderia ganhar **até 3x de performance** e **redução de latência** ao ser reescrito em **Django + React** com infraestrutura no Brasil (AWS São Paulo).  
-Essa análise técnica foi baseada em uma auditoria real que realizei — e é um ótimo exemplo do tipo de melhoria que gosto de propor e executar.
-
----
-
-## ⚖️ Licenças
+### ⚖️ Licenças  
 
 📜 [MIT License](./LICENSE) — código-fonte  
 📄 [CC BY 4.0 License](./ASSETS-LICENSE) — recursos gráficos  
 
 ---
 
-> Desenvolvido e mantido com ❤️ por **Rogério Moreira Alves Júnior** — [abc Ensina](https://www.abcensina.com.br)
+> 💡 Desenvolvido e mantido com ❤️ por **Rogério Moreira Alves Júnior** — [abc Ensina](https://www.abcensina.com.br)
+
+---
