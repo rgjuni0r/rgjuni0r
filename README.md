@@ -73,17 +73,6 @@ Construção e validação de um protótipo off-road completo, aplicando fundame
 
 ---
 
-### 📊 Estatísticas do GitHub  
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rgjuni0r&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgjuni0r&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 🧪 Publicações e Produção Científica  
 
 Autor em eventos científicos nacionais e internacionais:  
