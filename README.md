@@ -101,6 +101,6 @@ Autor em eventos científicos nacionais e internacionais:
 
 ---
 
-> 💡 Desenvolvido e mantido com ❤️ por **Rogério Moreira Alves Júnior** — [abc Ensina](https://www.abcensina.com.br)
+> Developed with ❤️ by **Rogério Moreira Alves Júnior** — [abc Ensina](https://www.abcensina.com.br)
 
 ---
