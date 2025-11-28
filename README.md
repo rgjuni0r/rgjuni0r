@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou <strong>Rogério Moreira Alves Júnior</strong></h1>
-<h3 align="center">Engenheiro em formação | Desenvolvedor Full Stack Sênior | Fundador & CTO da <a href="https://www.abcensina.com.br" target="_blank">abc Ensina</a></h3> e <a href="https://www.ipmeducacao.com.br" target="_blank">IPM Educação</a></h3>
+<h3 align="center">Engenheiro em formação | Desenvolvedor Full Stack Sênior | Fundador & CTO da <a href="https://www.abcensina.com.br" target="_blank">abc Ensina</a> e <a href="https://www.ipmeducacao.com.br" target="_blank">IPM Educação</a></h3>
 
 ---
 
